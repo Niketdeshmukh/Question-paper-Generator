@@ -1,0 +1,7 @@
+[
+  {"question": "Question 1", "subject": "Math", "topic": "Algebra", "difficulty": "Easy", "marks": 5},
+  {"question": "Question 2", "subject": "SST", "topic": "Modern", "difficulty": "Easy", "marks": 5},
+  {"question": "Question 3", "subject": "Science", "topic": "Physics", "difficulty": "Medium", "marks": 10},
+  {"question": "Question 4", "subject": "English", "topic": "Grammar", "difficulty": "Hard", "marks": 15}
+  
+]
